@@ -140,7 +140,7 @@ SHIPPO_API_KEY=<shippo-api-key>
 - **tsconfig.json**: TypeScript configuration.
 - **eslint.json**: ESLint configuration.
 
-## Contributing
+<!-- ## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -149,7 +149,7 @@ Contributions are welcome! Please follow these steps:
 3. Make your changes.
 4. Commit your changes (`git commit -m 'Add some feature'`).
 5. Push to the branch (`git push origin feature-branch`).
-6. Open a pull request.
+6. Open a pull request. -->
 
 ## License
 
